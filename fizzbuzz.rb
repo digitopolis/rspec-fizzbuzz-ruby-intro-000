@@ -9,4 +9,5 @@ def fizzbuzz(num)
     "Fizzbuzz"
   else
     0
+  end
 end
